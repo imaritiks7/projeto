@@ -1,1 +1,1 @@
-# MariaLauraMouraFelix/Projeto integrador economia circular
+# Projeto integrador economia circular
