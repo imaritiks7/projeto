@@ -27,6 +27,9 @@ Futuro-Sustentavel/
    ├── script.js
 
    └── README.md
-  
+   
+  OBJETIVO:
+  Promover a conscientização ambiental e incentivar hábitos sustentáveis, mostrando a importância da economia circular para a redução de desperdícios, preservação dos recurs
 
-Promover a conscientização ambiental e incentivar hábitos sustentáveis, mostrando a importância da economia circular para a redução de desperdícios, preservação dos recursos naturais e melhoria da qualidade de vida das futuras gerações.
+
+Promover a conscientização ambiental e incentivar hábitos sustentáveis, mostrando a importância da ecorecursos naturais e melhoria da qualidade de vida das futuras gerações.
